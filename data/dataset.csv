@@ -1,101 +1,101 @@
 education,gender,age,income,score
-PhD,Female,45,2000000,582
-High School,Male,60,62375,1000
-PhD,Male,63,81141,525
-High School,Male,50,Nan,608
-High School,Male,18,71355,NaN
-Master,Male,64,39561,801
-PhD,Female,54,38276,607
-Bachelor,Male,30,60621,NaN
-Master,Female,34,41202,347
-High School,Male,35,45326,594
-High School,Female,42,60289,831
-Master,Male,58,34712,834
-High School,Female,55,75424,508
-Bachelor,Male,25,84609,644
-Master,Female,27,NaN,607
-Master,Female,55,48086,373
-High School,Male,30,37425,838
-Bachelor,Male,47,32281,848
-Master,Female,44,80444,NaN
-Master,Male,37,50274,629
-Bachelor,Male,64,82934,388
-Master,Female,51,91898,551
-Bachelor,Male,27,84451,509
-High School,Female,31,90059,701
-PhD,Male,51,39529,655
-PhD,Male,41,84429,368
-High School,Male,33,NaN,845
-Master,Female,20,74895,575
-Master,Male,29,92072,598
-Bachelor,Female,46,48618,490
-PhD,Female,52,23877,608
-PhD,Male,23,67592,737
-Bachelor,Male,37,53014,315
-Bachelor,Male,18,88695,719
-PhD,Female,57,74954,344
-Master,Female,61,61099,575
-PhD,Male,18,98654,518
-Bachelor,Male,41,39179,417
-Master,Male,19,36657,766
-PhD,Male,20,37386,727
-Bachelor,Female,26,22480,773
-PhD,Female,43,49696,811
-Master,Male,38,68574,355
-Master,Male,25,99515,345
-Master,Male,41,NaN,675
-PhD,Female,55,91827,776
-Bachelor,Female,38,83740,389
-Master,Female,35,67106,551
-PhD,Male,44,42997,824
-PhD,Male,30,45662,547
-Bachelor,Female,29,71692,710
-Bachelor,Male,44,97284,732
-High School,Male,36,71732,NaN
-PhD,Male,42,NaN,619
-PhD,Female,20,46127,726
-Bachelor,Female,35,75112,535
-High School,Female,36,83422,329
-High School,Female,62,57823,833
-Bachelor,Male,63,98883,737
-PhD,Male,46,46313,841
-PhD,Male,47,33237,496
-Bachelor,Male,47,27117,524
-Master,Female,20,46839,670
-High School,Female,29,35740,704
-Master,Male,44,73990,827
-Bachelor,Female,20,88612,525
-High School,Female,39,55435,318
-PhD,Male,27,87078,556
-High School,Female,31,20751,620
-Master,Female,21,90371,477
-High School,Female,59,52228,331
-Master,Male,58,96064,451
-PhD,Male,24,71729,587
-Bachelor,Female,60,64557,NaN
-Bachelor,Male,49,62854,588
-High School,Female,62,44462,467
-PhD,Male,29,92729,776
-Master,Female,63,43811,387
-Master,Male,29,88175,632
-Bachelor,Female,56,24035,643
-Bachelor,Female,42,34159,331
-Bachelor,Female,32,65985,672
-High School,Female,28,46457,711
-Bachelor,Female,36,30123,447
-Bachelor,Male,44,60401,780
-Bachelor,Female,42,38884,515
-PhD,Female,32,83463,434
-Master,Female,28,95338,787
-PhD,Male,41,24193,847
-High School,Female,27,83558,725
-Master,Female,25,77936,396
-PhD,Female,41,73171,705
-High School,Female,55,31333,420
-Bachelor,Female,29,52757,NaN
-High School,Female,54,28551,675
-Master,Male,22,47093,520
-Master,Female,56,45370,657
-Bachelor,Female,62,NaN,543
-Bachelor,Male,55,24641,331
-PhD,Male,28,59384,461
+Master,Female,60,2000000,321
+PhD,Male,44,62866,1000
+Master,Male,20,NaN,585
+Master,Male,25,25561,340
+Master,Male,58,82095,674
+Bachelor,Female,39,43975,827
+Bachelor,Female,59,55124,582
+Bachelor,Male,21,NaN,613
+Master,Male,54,25700,678
+Master,Female,26,87837,612
+Bachelor,Female,52,39927,847
+High School,Male,24,70739,654
+PhD,Male,43,40840,685
+Bachelor,Male,56,28715,623
+PhD,Male,33,69667,556
+Bachelor,Female,29,69115,750
+High School,Male,61,31895,845
+High School,Female,53,31761,478
+PhD,Male,61,76889,522
+High School,Female,56,36853,769
+Bachelor,Female,39,NaN,594
+Master,Male,28,84639,788
+Master,Female,64,70567,539
+PhD,Male,28,33189,466
+High School,Male,61,56937,795
+High School,Female,55,73730,300
+PhD,Male,57,33966,310
+PhD,Male,64,64349,669
+PhD,Female,51,38349,318
+High School,Female,57,57348,796
+Master,Female,54,94832,743
+High School,Female,40,25048,682
+Master,Female,47,35229,752
+Master,Male,33,58648,733
+Master,Female,35,80104,338
+High School,Male,63,62071,309
+High School,Female,25,93330,469
+Master,Female,30,20285,647
+High School,Male,55,55372,350
+Master,Female,31,62024,790
+Master,Male,46,57441,504
+High School,Male,21,69883,372
+PhD,Male,49,89909,717
+PhD,Male,40,50170,664
+High School,Male,50,63765,479
+Master,Female,62,50888,664
+PhD,Female,40,84949,475
+PhD,Male,52,NaN,759
+High School,Male,45,80978,462
+Bachelor,Male,26,36983,725
+PhD,Male,28,69650,307
+Master,Female,38,74042,606
+High School,Male,58,95749,340
+PhD,Female,30,39052,534
+Master,Male,31,39785,733
+Bachelor,Female,37,83757,462
+High School,Female,24,57399,690
+Bachelor,Female,61,71269,414
+Bachelor,Male,53,96911,628
+PhD,Male,43,74913,501
+Bachelor,Male,29,91093,438
+Bachelor,Male,53,23222,799
+High School,Female,60,74348,628
+High School,Male,56,75969,704
+High School,Female,42,70112,328
+Bachelor,Female,30,75490,327
+Master,Male,28,23600,531
+Bachelor,Male,21,51169,663
+High School,Male,31,90998,802
+Master,Female,58,NaN,787
+Master,Male,42,56321,772
+PhD,Female,52,96595,728
+Master,Male,52,89754,378
+Bachelor,Male,58,26554,648
+High School,Male,37,90543,834
+Bachelor,Male,22,93395,794
+Master,Male,26,36330,772
+PhD,Male,34,95704,460
+High School,Female,60,36674,544
+Master,Male,19,52234,415
+Bachelor,Female,36,38805,311
+PhD,Female,42,41735,823
+PhD,Male,52,95677,472
+Bachelor,Female,56,45429,811
+Bachelor,Male,55,23221,592
+Bachelor,Female,20,41035,578
+PhD,Female,56,60347,673
+Master,Female,58,29621,658
+Bachelor,Female,19,40815,695
+PhD,Male,22,39378,495
+High School,Male,60,55068,585
+Bachelor,Male,31,53953,336
+PhD,Male,37,53560,572
+Master,Male,61,44949,848
+Master,Male,46,88690,539
+PhD,Male,57,42511,355
+Master,Male,21,59079,668
+PhD,Male,38,NaN,502
+Master,Male,40,38269,828
+Bachelor,Female,24,33557,586
